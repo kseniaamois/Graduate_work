@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Test result files
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# mypy
+.mypy_cache/
+
+# Cython debug symbols
+cython_debug/
+
+# Allure reports (если используете)
+report/
+
+# системные файлы
+.DS_Store
+Thumbs.db
