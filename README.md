@@ -34,6 +34,7 @@ Graduate_work/
 │   ├── test_ui.py         # UI тесты (Selenium + Pytest + Allure)
 │   └── test_api.py        # API тесты (requests + Pytest + Allure)
 ├── config.py              # Конфигурация (ключи, URL и др.)
+├── pytets.ini             # Список зависимостей
 ├── requirements.txt       # Список зависимостей
 └── README.md              # Этот файл
 
