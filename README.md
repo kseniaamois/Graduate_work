@@ -14,7 +14,6 @@
 - [Просмотр отчетов Allure](#просмотр-отчетов-allure)
 - [Маркеры для pytest](#маркеры-для-pytest)
 - [Добавление скриншотов в отчёт Allure](#добавление-скриншотов-в-отчёт-allure)
-- [Контакты](#контакты)
 
 ---
 
@@ -96,12 +95,15 @@ pytest -m ui --alluredir=allure-results/ui
 
 allure serve allure-results/ui
 
+<img width="1615" height="866" alt="Test_ui" src="https://github.com/user-attachments/assets/8417d2cf-7eb6-4717-8949-1eaaa44e2ed0" />
+
 или
 
 allure serve allure-results/api
 
-для визуального просмотра результатов.
+<img width="1605" height="788" alt="Test_api" src="https://github.com/user-attachments/assets/1885f2d4-a1de-4592-bae9-f63e302dc1d8" />
 
+для визуального просмотра результатов.
 ---
 
 ## Маркеры для pytest
